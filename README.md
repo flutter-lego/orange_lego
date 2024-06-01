@@ -2,7 +2,7 @@
 [![pub package](https://img.shields.io/pub/v/orange_lego.svg)](https://pub.dartlang.org/packages/orange_lego)
 
 # orange_lego
-description here
+apply orange in lego project.
 
 ##  Installation
 1. open terminal in the lego project root directory, enter the following command for install cli.
@@ -17,4 +17,6 @@ lego add orange_lego
 ```
 
 ## Usage
-Usage here
+```dart
+Orange.
+```
